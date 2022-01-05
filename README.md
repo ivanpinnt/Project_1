@@ -1,2 +1,3 @@
 # Project_1
-Created with CodeSandbox
+
+My own personal website.
